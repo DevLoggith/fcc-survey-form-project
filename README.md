@@ -1,5 +1,28 @@
-# FCC Survey Form Project
+# FreeCodeCamp Survey Form Project
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Loggith/pen/oNdZwex](https://codepen.io/Loggith/pen/oNdZwex).
+This project is my entry for the Free Code Camp survey form project, part of the responsive web design curriculum. It features ths basics of HTML and CSS, mobile first development, and the features, functions and proper implementation of HTML forms.
 
-This is my submission for the first project of FreeCodeCamp's responsive web design course. The page can be viewed in the brower <a href="https://devloggith.github.io/fcc-survey-form-project/" target="_blank">here</a>
+## Live Demo
+
+You can view a live demo of the project in your browser [here](https://devloggith.github.io/fcc-survey-form-project/).
+
+![](media/Demo-GIF.GIF)
+
+## Features
+
+- Form structure, elements, and controls
+- Responsive design
+- Mobile first development
+- Adherence to accessability standards
+
+## Technologies Used
+
+- HTML
+  - Proper semantic usage and structure
+  - Form structure and controls
+    - Text input 
+    - Number input
+    - Checkboxes
+    - Radio buttons
+    - Dropdown menus
+    - Form reset and submit buttons
